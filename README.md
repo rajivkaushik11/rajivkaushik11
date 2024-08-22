@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chikkala Rajiv Kaushik Yadav
-- 📫 Reach me on  rajivchikkala020@gmail.com
-- 😄 Pronouns: He/him
+- 📫 Reach me on mail: rajivchikkala020@gmail.com, Linkedin: Rajiv Chikkala
+- 😄 Pronouns: He/Him
 
 <!---
 rajivkaushik11/rajivkaushik11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
