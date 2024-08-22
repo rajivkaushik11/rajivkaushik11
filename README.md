@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Chikkala Rajiv Kaushik Yadav
-- 📫 Reach me on Mail: rajivchikkala020@gmail.com
-- Linkedin: Rajiv Chikkala(https://www.linkedin.com/in/rajiv-chikkala-413904234/)
+- 📫 Reach me on rajivchikkala020@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
