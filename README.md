@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Rajiv 
 - 📫 Reach me on rajivchikkala020@gmail.com
+- <h2>Connect with Me</h2>
+<p><a href="https://www.linkedin.com/in/rajiv-chikkala-413904234/" target="_blank">LinkedIn</a></p>
+
 - 😄 Pronouns: He/Him
 
 <!---
