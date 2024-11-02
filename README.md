@@ -49,7 +49,9 @@ You can click the Preview link to take a look at your changes.
     <td>
       <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
     </td>
-    <td></td> <!-- Add an empty cell if needed -->
+    <td>
+      <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
   </tr>
 </table>
 
