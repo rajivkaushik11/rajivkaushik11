@@ -33,6 +33,25 @@ You can click the Preview link to take a look at your changes.
       <img alt="LabVIEW" src="https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat-square&logo=labview&logoColor=black" />
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+    </td>
+    <td>
+      <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+    <td>
+      <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+    </td>
+  </tr>
+
+
 </table>
 
 
