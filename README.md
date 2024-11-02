@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rajiv 
-- 📫 Mail: rajivchikkala020@gmail.com
-- 📫  <p><a href="https://www.linkedin.com/in/rajiv-chikkala-413904234/" target="_blank">LinkedIn</a></p>
+- 📫 Mail: rajivchikkala020@gmail.com, <p><a href="https://www.linkedin.com/in/rajiv-chikkala-413904234/" target="_blank">LinkedIn</a></p>
 - 😄 Pronouns: He/Him
 
 <!---
