@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chikkala Rajiv Kaushik Yadav
+- 👋 Hi, I’m Rajiv 
 - 📫 Reach me on rajivchikkala020@gmail.com
 - 😄 Pronouns: He/Him
 
