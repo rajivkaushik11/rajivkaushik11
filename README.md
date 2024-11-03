@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Rajiv 
-- 📫 Reach me on : rajivchikkala020@gmail.com
-- 😄 Pronouns: He/Him
 
 <!---
 rajivkaushik11/rajivkaushik11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
