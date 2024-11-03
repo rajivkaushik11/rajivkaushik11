@@ -57,6 +57,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="Machine Learning Model - Thermal Cooling Fan" src="https://img.shields.io/badge/-Machine%20Learning%20Model%20--%20Thermal%20Cooling%20Fan-000000?style=flat-square&logoColor=white" />
 <img alt="Deep Learning Model - Image Classification" src="https://img.shields.io/badge/-Deep%20Learning%20Model%20--%20Image%20Classification-000000?style=flat-square&logoColor=white" />
 <img alt="Software Design and Development of Audio Player" src="https://img.shields.io/badge/-Software%20Design%20and%20Development%20of%20Audio%20Player-000000?style=flat-square&logoColor=white" />
+<img alt="Robo Vacuum Cleaner" src="https://img.shields.io/badge/-Robo%20Vacuum%20Cleaner-000000?style=flat-square&logoColor=white" />
 
 
 
