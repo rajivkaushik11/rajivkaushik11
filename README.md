@@ -53,7 +53,8 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <h3>Projects</h3>
-<img alt="Master Thesis - Automation of an Industrial Event Camera" src="https://img.shields.io/badge/-Master%20Thesis%20--%20Automation%20of%20an%20Industrial%20Event%20Camera-02569B?style=flat-square&logoColor=white" />
+<img alt="Master Thesis - Automation of an Industrial Event Camera" src="https://img.shields.io/badge/-Master%20Thesis%20--%20Automation%20of%20an%20Industrial%20Event%20Camera-FF8C00?style=flat-square&logoColor=white" />
+
 
 
 
