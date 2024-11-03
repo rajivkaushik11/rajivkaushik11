@@ -119,7 +119,7 @@ Building a low-cost, low-power camera based machine monitoring system that recor
 <p> Identifying healthy and diseased potato leaves using image classification.
 Image classification to distinguish between healthy and sick potato leaves. A big collection of photos of leaves divided into three groups healthy, diseased, and late-stage. TensorFlow preprocessed photos, including batching and scaling. To increase loading speed, TensorFlow's cache was utilized, and the dataset was randomly shuffled. While processing the current batch of data, prefetching was used to prepare the next one. Autotune was used to dynamically modify prefetching for best results. Data augmentation methods including image flipping to broaden the diversity of the dataset. Convolutional neural networks (CNNs) were constructed for classification. The models appropriate for integer class labels were compiled using the Adam optimizer with sparse categorical cross-entropy loss. The model was trained over a number of epochs until it reached a stable level of accuracy and decreased loss. Training and validation accuracy and loss were computed and shown. 
 </p>
-<img width="248" alt="image" src="https://github.com/user-attachments/assets/7c1c66d7-fbc2-43c6-aa8d-708394dc0db0">
+<img width="648" alt="image" src="https://github.com/user-attachments/assets/7c1c66d7-fbc2-43c6-aa8d-708394dc0db0">
 
 
 
