@@ -53,6 +53,10 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <h3>Projects</h3>
+<h2 style="background-color: #ADD8E6; color: white; padding: 10px; border-radius: 5px;">
+  Deep Learning Model - Image Classification
+</h2>
+
 <h2> Master thesis - Automation of an Industrial Event Camera</h2>
 <table>
   <tr>
