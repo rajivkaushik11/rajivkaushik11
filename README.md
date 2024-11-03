@@ -53,6 +53,7 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <h3>Projects</h3>
+<h2>Automation of an Industrial Event Camera</h2>
 
 
 
