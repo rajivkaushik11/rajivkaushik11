@@ -7,7 +7,7 @@ rajivkaushik11/rajivkaushik11 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3>Programming Tools and Technologies I  rely on </h3>
+<h3>I  rely on </h3>
 <table>
   <tr>
     <td>
