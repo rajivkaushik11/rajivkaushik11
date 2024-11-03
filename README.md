@@ -58,6 +58,8 @@ You can click the Preview link to take a look at your changes.
 <img alt="Deep Learning Model - Image Classification" src="https://img.shields.io/badge/-Deep%20Learning%20Model%20--%20Image%20Classification-000000?style=flat-square&logoColor=white" />
 <img alt="Software Design and Development of Audio Player" src="https://img.shields.io/badge/-Software%20Design%20and%20Development%20of%20Audio%20Player-000000?style=flat-square&logoColor=white" />
 <img alt="Software Design of Robo Vacuum Cleaner" src="https://img.shields.io/badge/-Software%20Design%20of%20Robo%20Vacuum%20Cleaner-000000?style=flat-square&logoColor=white" />
+<img alt="Pulsar Reception" src="https://img.shields.io/badge/-Pulsar%20Reception-000000?style=flat-square&logoColor=white" />
+
 
 
 
