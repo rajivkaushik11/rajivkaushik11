@@ -116,6 +116,18 @@ Building a low-cost, low-power camera based machine monitoring system that recor
 <img width="248" alt="image" src="https://github.com/user-attachments/assets/6c723d47-235d-434b-a99f-5873be85a314">
 
 <h3> Deep Learning Model- Image Classification</h3>
+<p> Identify healthy and diseased potato leaves using image classification.
+ A large collection of leaf images categorized into three classes: healthy, early-stage disease, and late-stage disease. The images were stored in a zip file and uploaded to Google Colab for processing.Extracted images from the zip file using Python’s io and zipfile modules.
+Preprocessed images with TensorFlow, including resizing and batching.
+Split the dataset into training (80%), testing (10%), and validation (10%) sets.
+Used TensorFlow's cache() to improve loading efficiency by storing the dataset in memory or disk.
+Implemented shuffle(200) to randomly shuffle the dataset with a buffer size of 200.
+Utilized prefetching to prepare the next batch of data while the current one is processed, reducing idle time.
+Adjusted prefetching dynamically with AUTOTUNE for optimal performance.
+Applied data augmentation techniques, such as flipping images, to increase dataset diversity.Built a Convolutional Neural Network (CNN) for classification.
+Compiled the model using the Adam optimizer and sparse categorical cross-entropy loss, suitable for integer class labels.
+Trained the model for several epochs until it achieved stable accuracy and reduced loss.Calculated and plotted training and validation accuracy and loss using Matplotlib to assess model performance. Tested the model on unseen images from the testing dataset to classify potato leaves as healthy or diseased, including evaluating the confidence score of predictions.
+</p>
 
 
 
