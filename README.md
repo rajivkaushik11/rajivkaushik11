@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <h3>Projects</h3>
-<h4> Master thesis - Automation of an Industrial Event Camera</h4>
+<h3> Master thesis - Automation of an Industrial Event Camera</h3>
 <table>
   <tr>
     <td>
@@ -85,7 +85,7 @@ Building a low-cost, low-power camera based machine monitoring system that recor
 
 
 
-<h4> Machine Learning Model- Thermal Cooling fan </h4>
+<h3> Machine Learning Model- Thermal Cooling fan </h3>
 <table>
   <tr>
     <td>
