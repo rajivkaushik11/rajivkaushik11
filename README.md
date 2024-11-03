@@ -81,7 +81,31 @@ Building a low-cost, low-power camera based machine monitoring system that recor
     style="float: right; margin: 40px;">
 
 <h4> Machine Learning Model- Thermal Cooling fan </h4>
-<p> Cooling fans are essential parts of the thermal management of electronics design, and engineers find it difficult to predict their non-linear behavior. The "fan curve", which each manufacturer publishes for every fan model, describes the fan's behavior. Those curves are manually extracted and imported for simulation since there is no component library in CST studio. The application takes user inputs in general to forecast fan curve. A Machine-learning algorithm is used to analyze fan curves from several suppliers</p>
+<table>
+  <tr>
+    <td>
+      <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+    </td>
+    <td>
+      <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    </td>
+    <td>
+      <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-3766AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td>
+      <img alt="Tkinter" src="https://img.shields.io/badge/-Tkinter-FF6F00?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td>
+      <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    </td>
+    <td>
+      <img alt="SciPy" src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+
+<p> Cooling fans are essential parts of the thermal management of electronics design, and engineers find it difficult to predict their non-linear behavior. The "fan curve", which each manufacturer publishes for every fan model, describes the fan's behavior. Those curves are manually extracted and imported for simulation since there is no component library in CST studio. The application takes user inputs in general to forecast fan curve. A Machine-learning algorithm is used to analyze fan curves from several suppliers.  With the help of the tool web-plot digitizer, extracted data points in the form of csv from the fan performance curves. Performed parsing operations to retrieve user specified data, data cleaning and data manipulation. Compared various machine learning algorithms to acquire the best fit for the application. Evaluated the model using the different metrics and observed the accuracy scores among all the machine learning models.</p>
 
 
 
