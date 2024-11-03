@@ -54,20 +54,23 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Projects</h3>
 <h4> Master thesis - Automation of an Industrial Event Camera</h4>
-<td>
+<table>
+  <tr>
+    <td>
+      <img alt="GoPro API" src="https://img.shields.io/badge/-GoPro%20API-00ADEF?style=flat-square&logo=gopro&logoColor=white" />
+    </td>
+    <td>
+      <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+    <td>
+      <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
+    </td>
+    <td>
       <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</td>
-<td>
-  <img alt="GoPro API" src="https://img.shields.io/badge/-GoPro%20API-00ADEF?style=flat-square&logo=gopro&logoColor=white" />
-</td>
+    </td>
+  </tr>
+</table>
 
-<td>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</td>
-
-<td>
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" />
-</td>
 
 <p>Industrial event cameras play a vital role in monitoring events in the industry and have been prevalent in use. These cameras enable manufacturers to detect quality issues and defects during the manufacturing process and also ensure that the products meet the required quality standards. The purpose of this thesis is to research on the camera-based machine monitoring system to enhance the frame rate and obtain the best possible capture quality.
 Building a low-cost, low-power camera based machine monitoring system that records high-definition videos at 1080 pixels with frames per second enhanced from 5 fps to 12fps is considered. The camera based machine monitoring system consists of Raspberry Pi placed inside a robust housing equipped with LEDs to show the status of the operations and also a push button. In the case of any event detection at the industrial site, a single press of the push button on the housing saves and upload a section of the video from the Raspberry Pi to the Google drive.</p>
