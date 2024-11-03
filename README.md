@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <h3>Projects</h3>
-<h3> Master thesis - Automation of an Industrial Event Camera</h3>
+<h2> Master thesis - Automation of an Industrial Event Camera</h2>
 <table>
   <tr>
     <td>
@@ -85,7 +85,7 @@ Building a low-cost, low-power camera based machine monitoring system that recor
 
 
 
-<h3> Machine Learning Model- Thermal Cooling fan </h3>
+<h2> Machine Learning Model- Thermal Cooling fan </h2>
 <table>
   <tr>
     <td>
@@ -115,7 +115,7 @@ Building a low-cost, low-power camera based machine monitoring system that recor
 <img width="418" alt="image" src="https://github.com/user-attachments/assets/529bed10-11c1-4cd9-b6d1-9a5667da22db">
 <img width="248" alt="image" src="https://github.com/user-attachments/assets/6c723d47-235d-434b-a99f-5873be85a314">
 
-<h3> Deep Learning Model- Image Classification</h3>
+<h2> Deep Learning Model- Image Classification</h2>
 <table>
   <tr>
     <td>
