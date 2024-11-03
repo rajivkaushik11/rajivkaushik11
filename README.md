@@ -117,13 +117,7 @@ Building a low-cost, low-power camera based machine monitoring system that recor
 
 <h3> Deep Learning Model- Image Classification</h3>
 <p> Identify healthy and diseased potato leaves using image classification.
- A large collection of leaf images categorized into three classes: healthy, early-stage disease, and late-stage disease. 
-Preprocessed images with TensorFlow, including resizing and batching.
-Used TensorFlow's cache() to improve loading efficiency,shuffle to randomly shuffle the dataset.
-Utilized prefetching to prepare the next batch of data while the current one is processed,Adjusted prefetching dynamically with AUTOTUNE for optimal performance.
-Applied data augmentation techniques, such as flipping images, to increase dataset diversity.Built a Convolutional Neural Network (CNN) for classification.
-Compiled the model using the Adam optimizer and sparse categorical cross-entropy loss, suitable for integer class labels.
-Trained the model for several epochs until it achieved stable accuracy and reduced loss.Calculated and plotted training and validation accuracy and loss using Matplotlib to assess model performance. Tested the model on unseen images from the testing dataset to classify potato leaves as healthy or diseased, including evaluating the confidence score of predictions.
+Use image classification to distinguish between healthy and sick potato leaves. a big collection of photos of leaves divided into three groups: healthy, diseased, and late-stage. TensorFlow preprocessed photos, including batching and scaling. To increase loading speed, TensorFlow's cache() was utilized, and the dataset was randomly shuffled. While processing the current batch of data, prefetching was used to prepare the next one.AUTOTUNE was used to dynamically modify prefetching for best results. used data augmentation methods, including image flipping, to broaden the diversity of the dataset.Convolutional neural networks (CNNs) were constructed for classification. The model, appropriate for integer class labels, was compiled using the Adam optimizer with sparse categorical cross-entropy loss. The model was trained over a number of epochs until it reached a stable level of accuracy and decreased loss.Training and validation accuracy and loss were computed and shown.
 </p>
 
 
