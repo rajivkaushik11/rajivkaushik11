@@ -115,6 +115,8 @@ Building a low-cost, low-power camera based machine monitoring system that recor
 <img width="418" alt="image" src="https://github.com/user-attachments/assets/529bed10-11c1-4cd9-b6d1-9a5667da22db">
 <img width="248" alt="image" src="https://github.com/user-attachments/assets/6c723d47-235d-434b-a99f-5873be85a314">
 
+<h3> Deep Learning Model- Image Classification</h3>
+
 
 
 
