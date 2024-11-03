@@ -54,6 +54,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Projects</h3>
 <h4>Automation of an Industrial Event Camera</h4>
+<p>Industrial event cameras play a vital role in monitoring events in the industry and have been prevalent in use. These cameras enable manufacturers to detect quality issues and defects during the manufacturing process and also ensure that the products meet the required quality standards. An industrial event camera based machine monitoring system was previously designed. But this system was not fast enough and could record high definition videos at 1080 pixels with only 5 frames per second. The overall perceived quality for 5fps is low. This frame rate is insufficient for most modern media standards and is rarely used in professional contexts. The purpose of this thesis is to continue further research on the camera-based machine monitoring system to enhance the frame rate and obtain the best possible capture quality.
+
+Building a low-cost, low-power camera based machine monitoring system that records high-definition videos at 1080 pixels with frames per second enhanced from 5 fps to 120 fps is considered. 120 fps offers superior smoothness, realism, motion clarity, visual comfort and responsiveness compared to 5 fps. The camera based machine monitoring system consists of Raspberry Pi placed inside a robust housing equipped with LEDs to show the status of the operations and also a push button. In the case of any event detection at the industrial site, a single press of the push button on the housing saves and upload a section of the video from the Raspberry Pi to the Google drive.</p>
 
 
 
