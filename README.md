@@ -80,6 +80,9 @@ Building a low-cost, low-power camera based machine monitoring system that recor
     width="312" 
     style="float: right; margin: 40px;">
 
+<h4> Machine Learning Model- Thermal Cooling fan </h4>
+<p> Cooling fans are essential parts of the thermal management of electronics design, and engineers find it difficult to predict their non-linear behavior. The "fan curve", which each manufacturer publishes for every fan model, describes the fan's behavior. Those curves are manually extracted and imported for simulation since there is no component library in CST studio. The application takes user inputs in general to forecast fan curve. A Machine-learning algorithm is used to analyze fan curves from several suppliers</p>
+
 
 
 
