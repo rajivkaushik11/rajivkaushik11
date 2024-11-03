@@ -5,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <h3>Education </h3>
 <ul>
-  <li>Master’s Degree in [Your Field], [Your University], [Year of Graduation]</li>
-  <li>Bachelor’s Degree in [Your Field], [Your University], [Year of Graduation]</li>
+  <li>Master’s Degree in Electrical Engineering and Information Technology, Darmstadt University of Applied Sciences, Germany</li>
+  <li>Bachelor’s Degree in Electronics and Instrumentation Engineering, CVR College of Engineering, India</li>
 </ul>
 
 
