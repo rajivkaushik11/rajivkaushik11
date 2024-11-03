@@ -53,9 +53,7 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <h3>Projects</h3>
-<div style="background-color: #ADD8E6; color: white; padding: 15px; border-radius: 5px; display: inline-block;">
-  <h2 style="margin: 0;">Deep Learning Model - Image Classification</h2>
-</div>
+<img alt="Master thesis - Automation of an Industrial Event Camera" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logoColor=white" />
 
 
 <h2> Master thesis - Automation of an Industrial Event Camera</h2>
