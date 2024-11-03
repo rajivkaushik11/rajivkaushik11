@@ -79,6 +79,8 @@ Building a low-cost, low-power camera based machine monitoring system that recor
     alt="diagram-thesis" 
     width="312" 
     style="float: right; margin: 40px;">
+    ![image](https://github.com/user-attachments/assets/1bd8cf51-c91b-4b7c-aa1a-d37746da7e0b)
+
 
 <h4> Machine Learning Model- Thermal Cooling fan </h4>
 <table>
