@@ -61,22 +61,6 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <h3>Projects</h3>
-<img alt="Automation of an Industrial Event Camera" src="https://img.shields.io/badge/-Automation%20of%20an%20Industrial%20Event%20Camera-000000?style=flat-square&logoColor=white" />
-<img alt="Machine Learning Model - Thermal Cooling Fan" src="https://img.shields.io/badge/-Machine%20Learning%20Model%20--%20Thermal%20Cooling%20Fan-000000?style=flat-square&logoColor=white" />
-<img alt="Deep Learning Model - Image Classification" src="https://img.shields.io/badge/-Deep%20Learning%20Model%20--%20Image%20Classification-000000?style=flat-square&logoColor=white" />
-<img alt="Simple LLM Building for Confidential Data Analysis" src="https://img.shields.io/badge/-Simple%20LLM%20Building%20for%20Confidential%20Data%20Analysis-000000?style=flat-square&logoColor=white" />
-<img alt="Software Design and Development of Audio Player" src="https://img.shields.io/badge/-Software%20Design%20and%20Development%20of%20Audio%20Player-000000?style=flat-square&logoColor=white" />
-<img alt="Software Design of Robo Vacuum Cleaner" src="https://img.shields.io/badge/-Software%20Design%20of%20Robo%20Vacuum%20Cleaner-000000?style=flat-square&logoColor=white" />
-<img alt="Pulsar Reception" src="https://img.shields.io/badge/-Pulsar%20Reception-000000?style=flat-square&logoColor=white" />
-<img alt="Interfacing NI-myDAQ with LabView, Automation" src="https://img.shields.io/badge/-Interfacing%20NI--myDAQ%20with%20LabView%2C%20Automation-000000?style=flat-square&logoColor=white" />
-
-
-
-
-
-
-
-
 
 <h2> Master thesis - Automation of an Industrial Event Camera</h2>
 <table>
