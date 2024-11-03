@@ -13,30 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3>Tools and Technologies I  rely on </h3>
-<table>
-  <tr>
-    <td>
-      <img alt="Python - Beginner" src="https://img.shields.io/badge/-Python%20%20%20%20-Beginner-FFDD57?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td>
-      <img alt="Python - Intermediate" src="https://img.shields.io/badge/-Python%20%20%20%20-Intermediate-FFD700?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td>
-      <img alt="Python - Expert" src="https://img.shields.io/badge/-Python%20%20%20%20-Expert-0057FF?style=flat-square&logo=python&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="C++ - Beginner" src="https://img.shields.io/badge/-C++%20%20%20%20-Beginner-FFDD57?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    </td>
-    <td>
-      <img alt="C++ - Intermediate" src="https://img.shields.io/badge/-C++%20%20%20%20-Intermediate-FFD700?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    </td>
-    <td>
-      <img alt="C++ - Expert" src="https://img.shields.io/badge/-C++%20%20%20%20-Expert-0057FF?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    </td>
-  </tr>
-</table>
+
 
 <table>
   <tr>
