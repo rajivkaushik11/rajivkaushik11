@@ -3,6 +3,12 @@
 rajivkaushik11/rajivkaushik11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h3>Education </h3>
+<ul>
+  <li>Master’s Degree in [Your Field], [Your University], [Year of Graduation]</li>
+  <li>Bachelor’s Degree in [Your Field], [Your University], [Year of Graduation]</li>
+</ul>
+
 
 <h3>Tools and Technologies I  rely on </h3>
 <table>
