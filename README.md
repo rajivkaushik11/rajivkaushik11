@@ -167,6 +167,8 @@ Image classification to distinguish between healthy and sick potato leaves. A bi
 The player connects to an IOWarrior board, which lights up LEDs in sync with the audio. Multi-threading and mutexes are used to ensure smooth performance and efficient CPU usage. Separate components were developed and then combined using a Façade design pattern. Simple sorting lets users pick which audio file to play, and they can choose filter types set in MATLAB, which have been tested to compare audio with and without filters. The design includes use cases, UML diagrams, and class and state diagrams.
 </p>
 
+<h1> Certifications </h1>
+
 
 
 
