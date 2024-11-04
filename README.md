@@ -147,6 +147,7 @@ Image classification to distinguish between healthy and sick potato leaves. A bi
 <img width="648" alt="image" src="https://github.com/user-attachments/assets/6188d103-8b57-4712-9084-86a8eabbc9a7">
 
 <h2> Software Design and Development of Audio Player </h2>
+<table>
 <td>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </td>
@@ -159,6 +160,7 @@ Image classification to distinguish between healthy and sick potato leaves. A bi
 <td>
   <img alt="Multithreading" src="https://img.shields.io/badge/-Multithreading-800080?style=flat-square&logo=thread&logoColor=white" />
 </td>
+</table>
 
 <p> This audio player can open, start, stop, and play audio files, and it lets users choose files and apply filters while playing. It uses PortAudio, a library that works across different operating systems for audio input and output. Filters are customizable, with settings like order and channel count, which are read using parsing algorithms.
 The player connects to an IOWarrior board, which lights up LEDs in sync with the audio. Multi-threading and mutexes are used to ensure smooth performance and efficient CPU usage. Separate components were developed and then combined using a Façade design pattern. Simple sorting lets users pick which audio file to play, and they can choose filter types set in MATLAB, which have been tested to compare audio with and without filters. The design includes use cases, UML diagrams, and class and state diagrams.
