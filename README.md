@@ -170,7 +170,7 @@ The player connects to an IOWarrior board, which lights up LEDs in sync with the
 <h2> Certifications </h2>
 
 <img width="538" alt="ml certificate internshaala" src="https://github.com/user-attachments/assets/a1190b04-4586-46ef-9837-e519b72376a6">
-<img width="234" alt="learnmall" src="https://github.com/user-attachments/assets/f706eb62-50ae-4d4d-9c22-e44a8fe45ee3">
+<img width="438" alt="learnmall" src="https://github.com/user-attachments/assets/f706eb62-50ae-4d4d-9c22-e44a8fe45ee3">
 
 
 
