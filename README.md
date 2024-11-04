@@ -1,4 +1,6 @@
 
+<div style="background-color: #326CE5; padding: 20px; color: white;">
+ 
 <!---
 rajivkaushik11/rajivkaushik11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -165,7 +167,7 @@ Image classification to distinguish between healthy and sick potato leaves. A bi
 <p> This audio player can open, start, stop, and play audio files, and it lets users choose files and apply filters while playing. It uses PortAudio, a library that works across different operating systems for audio input and output. Filters are customizable, with settings like order and channel count, which are read using parsing algorithms.
 The player connects to an IOWarrior board, which lights up LEDs in sync with the audio. Multi-threading and mutexes are used to ensure smooth performance and efficient CPU usage. Separate components were developed and then combined using a Façade design pattern. Simple sorting lets users pick which audio file to play, and they can choose filter types set in MATLAB, which have been tested to compare audio with and without filters. The design includes use cases, UML diagrams, and class and state diagrams.
 </p>
-
+</div>
 
 
 
