@@ -1,5 +1,5 @@
 
-<div style="background-color: #326CE5; padding: 20px; color: white;">
+<div style="background-color: #326CE5; padding: 20px; color: Blue;">
  
 <!---
 rajivkaushik11/rajivkaushik11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
