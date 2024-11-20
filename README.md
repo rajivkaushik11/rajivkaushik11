@@ -66,6 +66,17 @@ You can click the Preview link to take a look at your changes.
 <h3>Projects</h3>
 
 <h2> Training LLM for Confidential Data</h2>
+<table>
+  <tr>
+    <td>
+      <img alt="Prompt Engineering" src="https://img.shields.io/badge/-Prompt%20Engineering-blue?style=flat-square&logo=probot&logoColor=white" />
+    </td>
+    <td>
+      <img alt="Semantic Search" src="https://img.shields.io/badge/-Semantic%20Search-orange?style=flat-square&logo=searchengineland&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 <p>
 Integration of a language model (Google Palm) with a MySQL database to answer natural language questions about a T-shirt inventory. It connects to the database, fetches table information, and translates user queries (e.g., "How many Nike T-shirts in XS size are left?") into SQL commands. The system uses predefined examples and embeddings to improve accuracy and relevance, making it smarter in generating SQL queries. It can handle tasks like calculating inventory value, checking stock, and estimating revenue, even with discounts applied. Essentially, it enables non-technical users to interact with the database through simple language instead of writing SQL queries.
 </p>
