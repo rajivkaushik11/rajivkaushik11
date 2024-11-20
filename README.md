@@ -77,8 +77,12 @@ You can click the Preview link to take a look at your changes.
     <td>
       <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-yellow?style=flat-square&logo=huggingface&logoColor=white" />
     </td>
+    <td>
+      <img alt="Google Palm API" src="https://img.shields.io/badge/-Google%20Palm%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
+    </td>
   </tr>
 </table>
+
 
 
 <p>
