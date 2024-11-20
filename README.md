@@ -65,6 +65,10 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Projects</h3>
 
+<h2> Training LLM for Confidential Data</h2>
+<p>
+Integration of a language model (Google Palm) with a MySQL database to answer natural language questions about a T-shirt inventory. It connects to the database, fetches table information, and translates user queries (e.g., "How many Nike T-shirts in XS size are left?") into SQL commands. The system uses predefined examples and embeddings to improve accuracy and relevance, making it smarter in generating SQL queries. It can handle tasks like calculating inventory value, checking stock, and estimating revenue, even with discounts applied. Essentially, it enables non-technical users to interact with the database through simple language instead of writing SQL queries.
+</p>
 <h2> Master thesis - Automation of an Industrial Event Camera</h2>
 <table>
   <tr>
