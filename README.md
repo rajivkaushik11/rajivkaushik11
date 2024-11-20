@@ -80,8 +80,12 @@ You can click the Preview link to take a look at your changes.
     <td>
       <img alt="Google Palm API" src="https://img.shields.io/badge/-Google%20Palm%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
     </td>
+    <td>
+      <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-green?style=flat-square&logo=python&logoColor=white" />
+    </td>
   </tr>
 </table>
+
 
 
 
