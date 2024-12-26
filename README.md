@@ -64,6 +64,26 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <h3>Projects</h3>
+<table>
+  <tr>
+    <td>
+      <img alt="Google Colab" src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
+    </td>
+    <td>
+      <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat-square&logo=huggingface&logoColor=black" />
+    </td>
+    <td>
+      <img alt="QLoRA" src="https://img.shields.io/badge/-QLoRA-102230?style=flat-square&logo=machine-learning&logoColor=white" />
+    </td>
+    <td>
+      <img alt="LLaMA" src="https://img.shields.io/badge/-LLaMA-008FCC?style=flat-square&logo=meta&logoColor=white" />
+    </td>
+    <td>
+      <img alt="Transformers" src="https://img.shields.io/badge/-Transformers-9B59B6?style=flat-square&logo=huggingface&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 <h2> Fine tuning Llama from 32-bit precision to 4-bit precision</h2>
 <p>To fine-tune the Llama 2–7b-chat model using limited resources like Google Colab, we utilize parameter-efficient fine-tuning (PEFT) techniques such as QLoRA, which enables 4-bit precision training to reduce memory usage. The process involves loading the model and a preprocessed dataset from hugging face, configuring bitsandbytes for quantization, setting up QLoRA with a rank of 64 and scaling parameter of 16. The training is performed using SFTTrainer for one epoch. After training, we merge LoRA weights with the base model using the PEFT library and optionally push the fine-tuned model to the Hugging Face Hub for sharing and deployment.</p>
 
