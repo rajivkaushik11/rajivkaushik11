@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
       <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
     </td>
 </tr>
-<p>Conducted a comprehensive analysis on a Grocery App sales performance, customer satisfaction and inventory distribution to identify key insights, opportunities for optimization using various KPIs and visualizations in Power BI.</p>
+<p>Conducted a comprehensive analysis on a Grocery App sales performance, customer satisfaction and inventory distribution to identify key insights, opportunities for optimization using various KPIs and visualizations in Power BI. Data quality checks, modelling, processing and DAX calculations have been performed to successfully layout a dashboard with a chart visualization generating insights</p>
 <img width="586" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/0213a0c6-8eb3-40c4-92fb-814da4e8d3a5" />
 
 
