@@ -6,16 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Hello, People 👋</h1>
 
-<h3>Education </h3>
-<ul>
-  <li>Master’s Degree - Electrical Engineering and Information Technology, Darmstadt University of Applied Sciences, Germany.</li>
-  <li>Bachelor’s Degree - Electronics and Instrumentation Engineering, CVR College of Engineering, India.</li>
-</ul>
-
-
 <h3>Tools and Technologies I  rely on </h3>
-
-
 <table>
   <tr>
     <td>
@@ -70,8 +61,8 @@ You can click the Preview link to take a look at your changes.
       <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
     </td>
 </tr>
-<img width="586" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/0213a0c6-8eb3-40c4-92fb-814da4e8d3a5" />
 <p>Conducted a comprehensive analysis on a Grocery App sales performance, customer satisfaction and inventory distribution to identify key insights, opportunities for optimization using various KPIs and visualizations in Power BI.</p>
+<img width="586" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/0213a0c6-8eb3-40c4-92fb-814da4e8d3a5" />
 
 
 
@@ -230,6 +221,12 @@ The player connects to an IOWarrior board, which lights up LEDs in sync with the
 
 <img width="238" alt="ml certificate internshaala" src="https://github.com/user-attachments/assets/a1190b04-4586-46ef-9837-e519b72376a6">
 <img width="150" alt="learnmall" src="https://github.com/user-attachments/assets/f706eb62-50ae-4d4d-9c22-e44a8fe45ee3">
+
+<h3>Education </h3>
+<ul>
+  <li>Master’s Degree - Electrical Engineering and Information Technology, Darmstadt University of Applied Sciences, Germany.</li>
+  <li>Bachelor’s Degree - Electronics and Instrumentation Engineering, CVR College of Engineering, India.</li>
+</ul>
 
 
 
