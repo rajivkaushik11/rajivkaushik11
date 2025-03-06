@@ -64,6 +64,13 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <h3>Projects</h3>
+<h2> PowerBI project - Data Analysis of an Ecommerce Grocery App Business Performanc</h2>
+<tr>
+    <td>
+      <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+    </td>
+</tr>
+
 
 <h2> Fine tuning Llama from 32-bit precision to 4-bit precision</h2>
 <table>
