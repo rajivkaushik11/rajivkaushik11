@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td>
-      <img alt="LabVIEW" src="https://img.shields.io/badge/-LabVIEW-FFDB00?style=flat-square&logo=labview&logoColor=black" />
+       <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
     </td>
     <td>
       <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
@@ -71,6 +71,7 @@ You can click the Preview link to take a look at your changes.
     </td>
 </tr>
 <img width="586" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/0213a0c6-8eb3-40c4-92fb-814da4e8d3a5" />
+<p>Conducted a comprehensive analysis on a Grocery App sales performance, customer satisfaction and inventory distribution to identify key insights, opportunities for optimization using various KPIs and visualizations in Power BI.</p>
 
 
 
