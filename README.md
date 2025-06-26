@@ -51,10 +51,22 @@ You can click the Preview link to take a look at your changes.
     <td>
       <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
+   <td>
+    <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+   </td>
   </tr>
 </table>
 
 <h3>Projects</h3>
+<h2> Data Engineering Project on Azure</h2>
+<tr>
+    <td>
+      <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+    </td>
+</tr>
+<p>
+Developed an end-to-end data engineering pipeline on Microsoft Azure for Olympic Data Analytics, utilizing Azure Data Factory for orchestrating data ingestion from GitHub, Azure Data Lake Gen2 for scalable storage, and Azure Databricks with Apache Spark for distributed data transformation. Secured storage access using Azure Key Vault and App Registrations, and loaded curated data into Azure Synapse Analytics for SQL-based reporting and dashboarding—demonstrating strong expertise in building production-ready cloud data pipelines and implementing best practices in modular ETL design and cloud security.
+</p>
 <h2> PowerBI project - Data Analysis of an Ecommerce Grocery App Business Performance</h2>
 <tr>
     <td>
