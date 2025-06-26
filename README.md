@@ -66,6 +66,8 @@ You can click the Preview link to take a look at your changes.
 </tr>
 <p>
 Developed an end-to-end data engineering pipeline on Microsoft Azure for Olympic Data Analytics, utilizing Azure Data Factory for orchestrating data ingestion from GitHub, Azure Data Lake Gen2 for scalable storage, and Azure Databricks with Apache Spark for distributed data transformation. Secured storage access using Azure Key Vault and App Registrations, and loaded curated data into Azure Synapse Analytics for SQL-based reporting and dashboarding—demonstrating strong expertise in building production-ready cloud data pipelines and implementing best practices in modular ETL design and cloud security.
+ ![image](https://github.com/user-attachments/assets/08b5fec5-19b5-4bcb-9838-2a411c27d56e)
+
 </p>
 <h2> PowerBI project - Data Analysis of an Ecommerce Grocery App Business Performance</h2>
 <tr>
@@ -148,6 +150,8 @@ Integration of a language model (Google Palm) with a MySQL database to answer na
 Building a low-cost, low-power camera based machine monitoring system that records high-definition videos at 1080 pixels with frames per second enhanced from 5 fps to 12fps is considered. The camera based machine monitoring system consists of Raspberry Pi placed inside a robust housing equipped with LEDs to show the status of the operations and also a push button. In the case of any event detection at the industrial site, a single press of the push button on the housing saves and upload a section of the video from the Raspberry Pi to the Google drive.</p>
 <img width="312" alt="diagram-thesis" src="https://github.com/user-attachments/assets/1bd2e94c-b2b4-4fdc-a85a-0a6b77415f8f">
 <img width="312" alt="diagram-thesis" src="https://github.com/user-attachments/assets/20b2adf6-5739-4927-bc57-8e846a83c71e">
+
+
 
 
 
