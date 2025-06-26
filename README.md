@@ -66,7 +66,9 @@ You can click the Preview link to take a look at your changes.
 </tr>
 <p>
 Developed an end-to-end data engineering pipeline on Microsoft Azure for Olympic Data Analytics, utilizing Azure Data Factory for orchestrating data ingestion from GitHub, Azure Data Lake Gen2 for scalable storage, and Azure Databricks with Apache Spark for distributed data transformation. Secured storage access using Azure Key Vault and App Registrations, and loaded curated data into Azure Synapse Analytics for SQL-based reporting and dashboarding—demonstrating strong expertise in building production-ready cloud data pipelines and implementing best practices in modular ETL design and cloud security.
- ![image](https://github.com/user-attachments/assets/08b5fec5-19b5-4bcb-9838-2a411c27d56e)
+<img width="632" alt="Azure pipeline" src="https://github.com/user-attachments/assets/1bddffa3-5c3f-4574-a6ca-955c609a56c3" />
+
+ 
 
 </p>
 <h2> PowerBI project - Data Analysis of an Ecommerce Grocery App Business Performance</h2>
