@@ -60,7 +60,8 @@ You can click the Preview link to take a look at your changes.
 <h3>Projects</h3>
 <h2> Real-Time Stock Market Data Pipeline with Kafka and AWS</h2>
 <p> Development of a real-time data engineering pipeline for stock market analysis, delivering a production-ready solution using Apache Kafka, AWS EC2, S3, Glue, and Athena. Actively engaged with stakeholders to gather requirements and ensure the architecture aligned with business needs. Set up Kafka producers/consumers in Python to simulate live market data and stream it to AWS, implemented secure data storage in S3 using s3fs, and enabled real-time querying through AWS Glue crawlers and Athena. Added value by optimizing the data flow, ensuring high reliability, and demonstrating the end-to-end solution to both technical and non-technical audiences, highlighting potential for integration with BI tools and customer-facing dashboards.</p>
-<img width="481" alt="Kafka pipeline" src="https://github.com/user-attachments/assets/b45e8818-a436-479b-8de0-fd075c8b996e" />
+<img width="463" alt="Kafka pipeline" src="https://github.com/user-attachments/assets/dc783b83-0e00-4142-9296-59eec1490017" />
+
 
 
 <h2> Cloud-Native Data Pipeline with Azure Data Factory, Databricks, and Synapse</h2>
