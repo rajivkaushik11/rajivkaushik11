@@ -16,32 +16,30 @@ You can click the Preview link to take a look at your changes.
       <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
     </td>
     <td>
-      <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=machine-learning&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-102230?style=flat-square&logo=deep-learning&logoColor=white" />
+      <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" />
     </td>
     <td>
       <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     </td>
-    <td>
-      <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" />
-    </td>
   </tr>
   <tr>
     <td>
-       <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+      <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=machine-learning&logoColor=white" />
     </td>
     <td>
-      <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+      <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-102230?style=flat-square&logo=deep-learning&logoColor=white" />
+    </td>
+    <td>
+      <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
     </td>
     <td>
       <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
     </td>
   </tr>
   <tr>
+    <td>
+      <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+    </td>
     <td>
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
@@ -51,13 +49,19 @@ You can click the Preview link to take a look at your changes.
     <td>
       <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
-   <td>
-    <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-   </td>
-   <td><img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-   </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+    </td>
+    <td>
+      <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+    </td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
+
 
 <h3>Projects</h3>
 <h2> Real-Time Stock Market Data Pipeline with Kafka and AWS</h2>
