@@ -54,11 +54,18 @@ You can click the Preview link to take a look at your changes.
    <td>
     <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
    </td>
+   <td><img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+   </td>
   </tr>
 </table>
 
 <h3>Projects</h3>
 <h2> Real-Time Stock Market Data Pipeline with Kafka and AWS</h2>
+<tr>
+    <td>
+      <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+    </td>
+</tr>
 <p> Development of a real-time data engineering pipeline for stock market analysis, delivering a production-ready solution using Apache Kafka, AWS EC2, S3, Glue, and Athena. Actively engaged with stakeholders to gather requirements and ensure the architecture aligned with business needs. Set up Kafka producers/consumers in Python to simulate live market data and stream it to AWS, implemented secure data storage in S3 using s3fs, and enabled real-time querying through AWS Glue crawlers and Athena. Added value by optimizing the data flow, ensuring high reliability, and demonstrating the end-to-end solution to both technical and non-technical audiences, highlighting potential for integration with BI tools and customer-facing dashboards.</p>
 <img width="463" alt="Kafka pipeline" src="https://github.com/user-attachments/assets/dc783b83-0e00-4142-9296-59eec1490017" />
 
