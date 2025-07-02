@@ -58,7 +58,11 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 <h3>Projects</h3>
-<h2> Data Engineering Project on Azure</h2>
+<h2> Real-Time Stock Market Data Pipeline with Kafka and AWS</h2>
+<p> Development of a real-time data engineering pipeline for stock market analysis, delivering a production-ready solution using Apache Kafka, AWS EC2, S3, Glue, and Athena. Actively engaged with stakeholders to gather requirements and ensure the architecture aligned with business needs. Set up Kafka producers/consumers in Python to simulate live market data and stream it to AWS, implemented secure data storage in S3 using s3fs, and enabled real-time querying through AWS Glue crawlers and Athena. Added value by optimizing the data flow, ensuring high reliability, and demonstrating the end-to-end solution to both technical and non-technical audiences, highlighting potential for integration with BI tools and customer-facing dashboards.</p>
+![Architecture](https://github.com/user-attachments/assets/5deb1fb6-86b2-484a-bd82-1a4f3a31efc9)
+
+<h2> Cloud-Native Data Pipeline with Azure Data Factory, Databricks, and Synapse</h2>
 <tr>
     <td>
       <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
