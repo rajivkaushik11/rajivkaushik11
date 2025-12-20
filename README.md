@@ -32,11 +32,11 @@ You can click the Preview link to take a look at your changes.
     <td>
       <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
     </td>
-  </tr>
-  <tr>
     <td>
       <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td>
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
