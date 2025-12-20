@@ -64,6 +64,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3>Projects</h3>
+<h2> Multi Agent AI App</h2>
+<tr>
+    <td>
+     <img width="735" height="692" alt="image" src="https://github.com/user-attachments/assets/e4827ffe-6c07-480a-90e3-de7dccc77ca7" />
+    </td>
+</tr>
+
 <h2> Real-Time Stock Market Data Pipeline with Kafka and AWS</h2>
 <tr>
     <td>
