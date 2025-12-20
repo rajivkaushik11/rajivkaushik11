@@ -65,12 +65,13 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Projects</h3>
 <h2> Multi Agent AI App</h2>
+<p>This app solves the fragmentation problem I see in today’s AI and mobile app ecosystem. Users currently rely on multiple separate apps, Each app works in isolation and lacks context from the others. My idea is to create a single AI Agent Hub where multiple task-specific agents coexist inside one app. Each agent is modular, cloud-based, and context-aware, but the user experiences them as one unified system. This reduces cognitive load, improves personalization, and avoids switching between multiple apps.”</p>
 <tr>
     <td>
      <img width="312" height="400" alt="image" src="https://github.com/user-attachments/assets/e4827ffe-6c07-480a-90e3-de7dccc77ca7" />
     </td>
 </tr>
-<p>This app solves the fragmentation problem I see in today’s AI and mobile app ecosystem. Users currently rely on multiple separate apps, Each app works in isolation and lacks context from the others. My idea is to create a single AI Agent Hub where multiple task-specific agents coexist inside one app. Each agent is modular, cloud-based, and context-aware, but the user experiences them as one unified system. This reduces cognitive load, improves personalization, and avoids switching between multiple apps.”</p>
+
 
 <h2> Real-Time Stock Market Data Pipeline with Kafka and AWS</h2>
 <tr>
