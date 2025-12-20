@@ -46,11 +46,11 @@ You can click the Preview link to take a look at your changes.
     <td>
       <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
-  </tr>
-  <tr>
-    <td>
+   <td>
       <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td>
       <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
     </td>
