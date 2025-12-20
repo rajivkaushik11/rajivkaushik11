@@ -70,7 +70,6 @@ You can click the Preview link to take a look at your changes.
     <td>
      <img width="312" height="400" alt="image" src="https://github.com/user-attachments/assets/e4827ffe-6c07-480a-90e3-de7dccc77ca7" />
      <img width="532" height="524" alt="image" src="https://github.com/user-attachments/assets/93480fec-cc89-480b-ab05-04d3d78be2c5" />
-
     </td>
 </tr>
 
