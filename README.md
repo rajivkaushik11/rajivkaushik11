@@ -32,9 +32,6 @@ You can click the Preview link to take a look at your changes.
     <td>
       <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
     </td>
-    <td>
-      <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-    </td>
   </tr>
   <tr>
     <td>
