@@ -61,8 +61,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3>Projects</h3>
-<h2> AI Agent to improve productivity in engineering teams</h2>
-<p>This agent helps Software ,Data engineering teams understand overnight job failures faster. It monitors nightly executions, tracks which jobs passed or failed, and automatically analyzes failures. For failed jobs, the agent parses error logs, classifies the type of failure, inspects the relevant code context, and generates clear, actionable recommendations on how to fix the issue. By morning, engineers receive a clean report showing passed jobs and failed jobs with guidance, so they don’t need to manually read logs or debug blindly. The result is faster debugging, reduced operational overhead, and more reliable pipelines.</p>
+<h2> AI Agent improving productivity in Engineering teams</h2>
+<p>This agent helps Software, Data engineering teams understand overnight job failures faster. It monitors nightly executions, tracks which jobs passed or failed, and automatically analyzes failures. For failed jobs, the agent parses error logs, classifies the type of failure, inspects the relevant code context, and generates clear, actionable recommendations on how to fix the issue. By morning, engineers receive a clean report showing passed jobs and failed jobs with guidance, so they don’t need to manually read logs or debug blindly. The result is faster debugging, reduced operational overhead, and more reliable pipelines.</p>
 <tr>
     <td>
      <img width="362" height="450" alt="image" src="https://github.com/user-attachments/assets/451ba030-e562-497b-9fbf-3cc0bc3ef16c" />
