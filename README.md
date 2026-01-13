@@ -61,6 +61,14 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3>Projects</h3>
+<h2> AI Agent for software Engineering, Data Science Teams</h2>
+<p>This agent helps Software ,Data engineering teams understand overnight job failures faster. It monitors nightly executions, tracks which jobs passed or failed, and automatically analyzes failures. For failed jobs, the agent parses error logs, classifies the type of failure, inspects the relevant code context, and generates clear, actionable recommendations on how to fix the issue. By morning, engineers receive a clean report showing passed jobs and failed jobs with guidance, so they don’t need to manually read logs or debug blindly. The result is faster debugging, reduced operational overhead, and more reliable pipelines.</p>
+<tr>
+    <td>
+     <img width="995" height="773" alt="image" src="https://github.com/user-attachments/assets/451ba030-e562-497b-9fbf-3cc0bc3ef16c" />
+    </td>
+</tr>
+
 <h2> Multi Agent AI App</h2>
 <p>This app solves the fragmentation problem I see in today’s AI and mobile app ecosystem. Users currently rely on multiple separate apps, Each app works in isolation and lacks context from the others. My idea is to create a single AI Agent Hub where multiple task-specific agents coexist inside one app. Each agent is modular, cloud-based, and context-aware, but the user experiences them as one unified system. This reduces cognitive load, improves personalization, and avoids switching between multiple apps.</p>
 <tr>
