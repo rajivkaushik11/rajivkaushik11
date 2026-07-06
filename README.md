@@ -106,7 +106,7 @@ Developed an end-to-end data engineering pipeline on Microsoft Azure for Olympic
 <p>Conducted a comprehensive analysis on a Grocery App sales performance, customer satisfaction and inventory distribution to identify key insights, opportunities for optimization using various KPIs and visualizations in Power BI. Data quality checks, modelling, processing and DAX calculations have been performed to successfully layout a dashboard with a chart visualization generating insights.</p>
 <img width="586" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/0213a0c6-8eb3-40c4-92fb-814da4e8d3a5" />
 
-<h2> Fine tuning Llama from 32-bit precision to 4-bit precision</h2>
+<h2> LLM Quantization and Fine tuning (LLaMA 2-7b)</h2>
 <table>
   <tr>
     <td>
