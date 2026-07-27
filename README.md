@@ -5,6 +5,7 @@ rajivkaushik11/rajivkaushik11 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <h1>Hello, People 👋</h1>
+<h3>Results driven Full Stack Developer and ML Engineer with 2 years of experience building scalable AI/ML systems,  cloud native data pipelines, and production grade software. Proven track record in MLOps, LLM fine tuning, deep  learning, and end to end model deployment. Experienced with Kubernetes orchestration, CI/CD automation, and  cross functional collaboration in agile environments.</h3>
 
 <h3>Tools and Technologies I  rely on </h3>
 <table>
