@@ -73,7 +73,7 @@ overhead, and more reliable pipelines.
 </p>
  <tr>
   <td>
-     <img width="312" height="400" alt="image" src="https://github.com/user-attachments/assets/dead0f59-9b4d-46b7-ba82-e5d0a2723a42" />
+     <img width="463" height="300" alt="image" src="https://github.com/user-attachments/assets/dead0f59-9b4d-46b7-ba82-e5d0a2723a42" />
   </td>
  </tr>
 
