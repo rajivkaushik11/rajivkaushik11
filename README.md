@@ -71,11 +71,11 @@ engineers receive a clean report showing passed jobs and failed jobs with guidan
 need to manually read logs or debug blindly. The result is faster debugging, reduced operational 
 overhead, and more reliable pipelines.
 </p>
- <tr>
+<tr>
   <td>
      <img width="312" height="400" alt="image" src="https://github.com/user-attachments/assets/dead0f59-9b4d-46b7-ba82-e5d0a2723a42" />
   </td>
- </tr>
+</tr>
 
 
 
