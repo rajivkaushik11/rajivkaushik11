@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3>Projects</h3>
-<h2> AI Agent improving productivity in engineering teams/h2>
+<h2> AI Agent improving productivity in engineering teams</h2>
 <p>A Python automation that turns failed CI/CD jobs into actionable engineering reports and emails them to the team.This agent helps Software, Data engineering teams understand overnight job failures faster. It 
 monitors nightly executions, tracks which jobs passed or failed, and automatically analyzes failures. 
 For failed jobs, the agent parses error logs, classifies the type of failure, inspects the relevant code 
